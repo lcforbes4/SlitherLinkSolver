@@ -1,0 +1,10 @@
+# Python's compiled-file caches
+__pycache__/
+*.pyc
+
+# macOS folder settings
+.DS_Store
+
+# Claude Code: local settings and working rules (not part of the solver)
+.claude/
+CLAUDE.md
